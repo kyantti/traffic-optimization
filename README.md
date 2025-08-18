@@ -32,7 +32,7 @@ This project addresses an **optimization problem of traffic circulation** within
 - Implement more realistic rules for distributing population across large, medium, and small cities.
 - Add transportation capacity limits for segments.
 - Introduce movement routines (daily work travel, holidays, etc.).
-- Model accidents and risks associated with speed.
+- Accidents and risks associated with speed.
 - Differentiate between public and private transportation.
-- Implement evolutionary algorithms to optimize the network of connections.
+- Implement evolutionary algorithm to optimize the network of connections.
 

@@ -2,7 +2,7 @@
 
 ## Description
 This project addresses an **optimization problem of traffic circulation** within a region composed of several cities and towns.  
-**Version 1** represents the initial and simplified model, which will serve as the foundation for more realistic future extensions.
+**Version 0** represents the initial and simplified model, which will serve as the foundation for more realistic future extensions.
 
 ## Main Features
 1. **Node generation (cities):**

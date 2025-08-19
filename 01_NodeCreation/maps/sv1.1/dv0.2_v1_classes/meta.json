@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.1",
+  "dataset_version": "0.2",
+  "crs": "EPSG:3857",
+  "seed": 30,
+  "generator": {
+    "name": "nodes_v1_classes_prob_uniform",
+    "params": {
+      "n_nodes": 30,
+      "bbox_km": [
+        0.0,
+        0.0,
+        200.0,
+        200.0
+      ],
+      "class_prob": {
+        "large": 0.1,
+        "medium": 0.3,
+        "small": 0.6
+      },
+      "class_ranges": {
+        "large": {
+          "min": 600000,
+          "max": 1500000
+        },
+        "medium": {
+          "min": 100000,
+          "max": 300000
+        },
+        "small": {
+          "min": 1000,
+          "max": 60000
+        }
+      }
+    }
+  },
+  "region_bbox": [
+    0.0,
+    0.0,
+    200.0,
+    200.0
+  ],
+  "metrics": {
+    "n_nodes": 30,
+    "bbox": {
+      "minx": 0.0,
+      "miny": 0.0,
+      "maxx": 200.0,
+      "maxy": 200.0
+    },
+    "class_counts": {
+      "small": 17,
+      "medium": 11,
+      "large": 2
+    },
+    "class_medians": {
+      "large": 1296607,
+      "medium": 215837,
+      "small": 43342
+    },
+    "median_order_ok": true,
+    "pop_range_observed": {
+      "min": 1227,
+      "max": 1435553
+    },
+    "pop_percentiles": {
+      "5": 7477,
+      "25": 37416,
+      "50": 55312,
+      "75": 211397,
+      "95": 765390
+    }
+  },
+  "metrics_hash": "af5893ff0c1a3f51",
+  "created_at_utc": "2025-08-19T09:26:51Z"
+}

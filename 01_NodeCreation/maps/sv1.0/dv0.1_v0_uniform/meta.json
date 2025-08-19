@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "dataset_version": "0.1",
+  "crs": "EPSG:3857",
+  "seed": 30,
+  "generator": {
+    "name": "nodes_v0_uniform",
+    "params": {
+      "n_nodes": 10,
+      "bbox_km": [
+        0.0,
+        0.0,
+        200.0,
+        200.0
+      ],
+      "pop_min": 1000,
+      "pop_max": 1000000
+    }
+  },
+  "region_bbox": [
+    0.0,
+    0.0,
+    200.0,
+    200.0
+  ],
+  "metrics": {
+    "n_nodes": 10,
+    "bbox": {
+      "minx": 0.0,
+      "miny": 0.0,
+      "maxx": 200.0,
+      "maxy": 200.0
+    },
+    "pop_range_observed": {
+      "min": 222857,
+      "max": 832410
+    },
+    "pop_percentiles": {
+      "5": 252886,
+      "25": 315492,
+      "50": 433212,
+      "75": 553395,
+      "95": 787024
+    }
+  },
+  "metrics_hash": "66fd5ac38ba48a3b",
+  "created_at_utc": "2025-08-19T08:38:25Z"
+}

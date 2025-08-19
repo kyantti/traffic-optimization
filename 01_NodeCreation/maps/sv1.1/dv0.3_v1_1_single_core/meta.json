@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.1",
+  "dataset_version": "0.3",
+  "crs": "EPSG:3857",
+  "seed": 50,
+  "generator": {
+    "name": "nodes_v1.1_single_core_density",
+    "params": {
+      "n_nodes": 30,
+      "bbox_km": [
+        0.0,
+        0.0,
+        200.0,
+        200.0
+      ],
+      "core_location": [
+        100.0,
+        100.0
+      ],
+      "core_sigma_km": 50.0,
+      "density_strength": 0.8,
+      "max_gauss_resamples": 200,
+      "pop_min": 1000,
+      "pop_max": 1500000
+    }
+  },
+  "region_bbox": [
+    0.0,
+    0.0,
+    200.0,
+    200.0
+  ],
+  "metrics": {
+    "n_nodes": 30,
+    "bbox": {
+      "minx": 0.0,
+      "miny": 0.0,
+      "maxx": 200.0,
+      "maxy": 200.0
+    },
+    "mean_core_dist_km": 55.64441164871582,
+    "baseline_mean_core_dist_km": 77.08644641534943,
+    "improvement_km": 21.44203476663361,
+    "pop_range_observed": {
+      "min": 2728,
+      "max": 1407300
+    },
+    "pop_percentiles": {
+      "5": 44476,
+      "25": 296772,
+      "50": 586438,
+      "75": 888173,
+      "95": 1318702
+    }
+  },
+  "metrics_hash": "f4c61e13d021fcec",
+  "created_at_utc": "2025-08-19T09:37:43Z"
+}

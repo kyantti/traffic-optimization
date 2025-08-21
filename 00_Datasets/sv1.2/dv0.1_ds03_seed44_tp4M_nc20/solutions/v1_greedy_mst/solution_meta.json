@@ -1,0 +1,16 @@
+{
+  "created_at_utc": "2025-08-21T08:54:49Z",
+  "algorithm": "v1_greedy_mst",
+  "seed": 42,
+  "dataset_folder": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds03_seed44_tp4M_nc20",
+  "solution_dir": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds03_seed44_tp4M_nc20\\solutions\\v1_greedy_mst",
+  "artifacts": {
+    "edges_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds03_seed44_tp4M_nc20\\solutions\\v1_greedy_mst\\edges.csv",
+    "adjacency_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds03_seed44_tp4M_nc20\\solutions\\v1_greedy_mst\\adjacency.csv",
+    "cost_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds03_seed44_tp4M_nc20\\solutions\\v1_greedy_mst\\cost.csv",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds03_seed44_tp4M_nc20\\solutions\\v1_greedy_mst\\segments_preview.png"
+  },
+  "n_nodes": 20,
+  "n_edges": 19,
+  "total_length_km": 457.282719729964
+}

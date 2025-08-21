@@ -1,0 +1,122 @@
+[
+  {
+    "index": 1,
+    "seed": 42,
+    "total_population": 3000000,
+    "n_cities_target": 15,
+    "achieved_n_cities": 15,
+    "out_dir": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds01_seed42_tp3M_nc15",
+    "nodes_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds01_seed42_tp3M_nc15\\nodes.csv",
+    "meta_json": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds01_seed42_tp3M_nc15\\meta.json",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds01_seed42_tp3M_nc15\\preview.png",
+    "heatmap_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds01_seed42_tp3M_nc15\\population_heatmap.png"
+  },
+  {
+    "index": 2,
+    "seed": 43,
+    "total_population": 3500000,
+    "n_cities_target": 18,
+    "achieved_n_cities": 18,
+    "out_dir": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds02_seed43_tp3.5M_nc18",
+    "nodes_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds02_seed43_tp3.5M_nc18\\nodes.csv",
+    "meta_json": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds02_seed43_tp3.5M_nc18\\meta.json",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds02_seed43_tp3.5M_nc18\\preview.png",
+    "heatmap_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds02_seed43_tp3.5M_nc18\\population_heatmap.png"
+  },
+  {
+    "index": 3,
+    "seed": 44,
+    "total_population": 4000000,
+    "n_cities_target": 20,
+    "achieved_n_cities": 20,
+    "out_dir": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds03_seed44_tp4M_nc20",
+    "nodes_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds03_seed44_tp4M_nc20\\nodes.csv",
+    "meta_json": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds03_seed44_tp4M_nc20\\meta.json",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds03_seed44_tp4M_nc20\\preview.png",
+    "heatmap_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds03_seed44_tp4M_nc20\\population_heatmap.png"
+  },
+  {
+    "index": 4,
+    "seed": 45,
+    "total_population": 2500000,
+    "n_cities_target": 22,
+    "achieved_n_cities": 22,
+    "out_dir": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds04_seed45_tp2.5M_nc22",
+    "nodes_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds04_seed45_tp2.5M_nc22\\nodes.csv",
+    "meta_json": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds04_seed45_tp2.5M_nc22\\meta.json",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds04_seed45_tp2.5M_nc22\\preview.png",
+    "heatmap_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds04_seed45_tp2.5M_nc22\\population_heatmap.png"
+  },
+  {
+    "index": 5,
+    "seed": 46,
+    "total_population": 5000000,
+    "n_cities_target": 24,
+    "achieved_n_cities": 24,
+    "out_dir": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds05_seed46_tp5M_nc24",
+    "nodes_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds05_seed46_tp5M_nc24\\nodes.csv",
+    "meta_json": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds05_seed46_tp5M_nc24\\meta.json",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds05_seed46_tp5M_nc24\\preview.png",
+    "heatmap_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds05_seed46_tp5M_nc24\\population_heatmap.png"
+  },
+  {
+    "index": 6,
+    "seed": 47,
+    "total_population": 5500000,
+    "n_cities_target": 26,
+    "achieved_n_cities": 26,
+    "out_dir": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds06_seed47_tp5.5M_nc26",
+    "nodes_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds06_seed47_tp5.5M_nc26\\nodes.csv",
+    "meta_json": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds06_seed47_tp5.5M_nc26\\meta.json",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds06_seed47_tp5.5M_nc26\\preview.png",
+    "heatmap_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds06_seed47_tp5.5M_nc26\\population_heatmap.png"
+  },
+  {
+    "index": 7,
+    "seed": 48,
+    "total_population": 1000000,
+    "n_cities_target": 28,
+    "achieved_n_cities": 28,
+    "out_dir": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds07_seed48_tp1M_nc28",
+    "nodes_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds07_seed48_tp1M_nc28\\nodes.csv",
+    "meta_json": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds07_seed48_tp1M_nc28\\meta.json",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds07_seed48_tp1M_nc28\\preview.png",
+    "heatmap_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds07_seed48_tp1M_nc28\\population_heatmap.png"
+  },
+  {
+    "index": 8,
+    "seed": 49,
+    "total_population": 6500000,
+    "n_cities_target": 30,
+    "achieved_n_cities": 30,
+    "out_dir": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds08_seed49_tp6.5M_nc30",
+    "nodes_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds08_seed49_tp6.5M_nc30\\nodes.csv",
+    "meta_json": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds08_seed49_tp6.5M_nc30\\meta.json",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds08_seed49_tp6.5M_nc30\\preview.png",
+    "heatmap_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds08_seed49_tp6.5M_nc30\\population_heatmap.png"
+  },
+  {
+    "index": 9,
+    "seed": 50,
+    "total_population": 500000,
+    "n_cities_target": 32,
+    "achieved_n_cities": 32,
+    "out_dir": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds09_seed50_tp0.5M_nc32",
+    "nodes_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds09_seed50_tp0.5M_nc32\\nodes.csv",
+    "meta_json": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds09_seed50_tp0.5M_nc32\\meta.json",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds09_seed50_tp0.5M_nc32\\preview.png",
+    "heatmap_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds09_seed50_tp0.5M_nc32\\population_heatmap.png"
+  },
+  {
+    "index": 10,
+    "seed": 51,
+    "total_population": 1500000,
+    "n_cities_target": 35,
+    "achieved_n_cities": 35,
+    "out_dir": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds10_seed51_tp1.5M_nc35",
+    "nodes_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds10_seed51_tp1.5M_nc35\\nodes.csv",
+    "meta_json": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds10_seed51_tp1.5M_nc35\\meta.json",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds10_seed51_tp1.5M_nc35\\preview.png",
+    "heatmap_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds10_seed51_tp1.5M_nc35\\population_heatmap.png"
+  }
+]

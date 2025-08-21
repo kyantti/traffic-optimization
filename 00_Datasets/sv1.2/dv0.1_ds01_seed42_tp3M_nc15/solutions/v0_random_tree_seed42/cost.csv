@@ -1,0 +1,15 @@
+0.0,103.20102312635944,inf,inf,inf,inf,inf,inf,inf,inf,inf,104.85271900926965,inf,inf,inf
+103.20102312635944,0.0,inf,inf,inf,inf,57.19945490331969,inf,inf,inf,inf,inf,inf,inf,inf
+inf,inf,0.0,inf,inf,inf,163.57591298323894,129.59176358272964,inf,inf,inf,inf,inf,inf,inf
+inf,inf,inf,0.0,inf,inf,inf,inf,inf,inf,127.99063999915089,inf,97.95534012532796,inf,inf
+inf,inf,inf,inf,0.0,inf,inf,inf,32.43728166885783,inf,inf,inf,inf,inf,inf
+inf,inf,inf,inf,inf,0.0,inf,inf,inf,inf,74.64298025246788,76.06210164444677,inf,inf,inf
+inf,57.19945490331969,163.57591298323894,inf,inf,inf,0.0,inf,inf,inf,inf,inf,inf,inf,inf
+inf,inf,129.59176358272964,inf,inf,inf,inf,0.0,31.964832708152755,inf,inf,inf,inf,inf,inf
+inf,inf,inf,inf,32.43728166885783,inf,inf,31.964832708152755,0.0,inf,inf,inf,inf,inf,148.68755050853568
+inf,inf,inf,inf,inf,inf,inf,inf,inf,0.0,inf,inf,inf,inf,85.49078010416464
+inf,inf,inf,127.99063999915089,inf,74.64298025246788,inf,inf,inf,inf,0.0,inf,inf,inf,inf
+104.85271900926965,inf,inf,inf,inf,76.06210164444677,inf,inf,inf,inf,inf,0.0,inf,inf,inf
+inf,inf,inf,97.95534012532796,inf,inf,inf,inf,inf,inf,inf,inf,0.0,inf,inf
+inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,0.0,40.89868708966437
+inf,inf,inf,inf,inf,inf,inf,inf,148.68755050853568,85.49078010416464,inf,inf,inf,40.89868708966437,0.0

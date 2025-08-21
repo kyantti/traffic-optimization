@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.2",
+  "dataset_version": "0.1.ds04",
+  "crs": "EPSG:3857",
+  "seed": 45,
+  "generator": {
+    "name": "nodes_v2_density_to_cities",
+    "params": {
+      "total_population": 2500000,
+      "bbox_km": [
+        0.0,
+        0.0,
+        200.0,
+        200.0
+      ],
+      "grid_res_km": 2.0,
+      "n_centers": 4,
+      "center_sigma_km_min": 12.0,
+      "center_sigma_km_max": 35.0,
+      "baseline_frac": 0.05,
+      "noise_amp": 0.3,
+      "noise_grid": [
+        10,
+        10
+      ],
+      "peaks_percentile": 92.0,
+      "min_peak_separation_km": 8.0,
+      "gamma": 1.7,
+      "eps_km": 0.5,
+      "min_city_pop": 1000
+    }
+  },
+  "extras_summary": {
+    "grid": {
+      "nx": 100,
+      "ny": 100,
+      "res_km": 2.0
+    },
+    "peaks_count": null
+  },
+  "artifacts": {
+    "nodes_csv": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds04_seed45_tp2.5M_nc22\\nodes.csv",
+    "preview_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds04_seed45_tp2.5M_nc22\\preview.png",
+    "population_heatmap_png": "C:\\Users\\User\\Documents\\Code\\traffic-optimization\\00_Datasets\\sv1.2\\dv0.1_ds04_seed45_tp2.5M_nc22\\population_heatmap.png"
+  },
+  "metrics": {
+    "n_cities": 22,
+    "total_population": 2500000,
+    "pop_percentiles": {
+      "5": 10601,
+      "25": 31858,
+      "50": 78978,
+      "75": 191124,
+      "90": 253956,
+      "95": 303440,
+      "99": 331242
+    }
+  },
+  "metrics_hash": "432c7ab0d1498bf6",
+  "created_at_utc": "2025-08-21T08:41:46Z"
+}

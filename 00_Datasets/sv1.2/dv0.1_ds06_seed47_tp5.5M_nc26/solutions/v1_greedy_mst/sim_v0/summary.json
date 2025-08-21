@@ -1,0 +1,109 @@
+{
+  "created_at_utc": "2025-08-21T09:22:50Z",
+  "config": {
+    "alpha_pop": 1.05,
+    "beta_by_purpose": {
+      "work": 1.6,
+      "recreation": 1.2,
+      "family": 1.1,
+      "vacation": 0.9,
+      "tourism": 0.8,
+      "emergency": 1.3
+    },
+    "speed_kmh_by_purpose": {
+      "work": 80.0,
+      "recreation": 70.0,
+      "family": 75.0,
+      "vacation": 85.0,
+      "tourism": 75.0,
+      "emergency": 90.0
+    },
+    "rates_annual_by_class": {
+      "small": {
+        "work": 6.0,
+        "recreation": 3.0,
+        "family": 2.0,
+        "vacation": 1.2,
+        "tourism": 1.5,
+        "emergency": 0.05
+      },
+      "medium": {
+        "work": 8.0,
+        "recreation": 3.5,
+        "family": 2.3,
+        "vacation": 1.5,
+        "tourism": 1.8,
+        "emergency": 0.06
+      },
+      "large": {
+        "work": 10.0,
+        "recreation": 4.0,
+        "family": 2.6,
+        "vacation": 1.8,
+        "tourism": 2.0,
+        "emergency": 0.07
+      }
+    }
+  },
+  "results": {
+    "n_nodes": 26,
+    "total_trips_year": 101664066.64,
+    "total_person_hours": 128356704.9770389,
+    "avg_time_min": 75.75343534007519,
+    "avg_dist_km": 97.07630807321064,
+    "avg_detour_ratio": 1.7823728788817133,
+    "efficiency_score": 0.7920432879465563,
+    "per_purpose": [
+      {
+        "purpose": "work",
+        "trips": 48435528.0,
+        "person_hours": 53622350.74895309,
+        "avg_time_min": 66.4252291197731,
+        "avg_dist_km": 88.56697215969747
+      },
+      {
+        "purpose": "recreation",
+        "trips": 20358882.0,
+        "person_hours": 29165220.839786917,
+        "avg_time_min": 85.95330776941557,
+        "avg_dist_km": 100.2788590643182
+      },
+      {
+        "purpose": "family",
+        "trips": 13315329.200000001,
+        "person_hours": 18337864.770525496,
+        "avg_time_min": 82.6319702431037,
+        "avg_dist_km": 103.28996280387963
+      },
+      {
+        "purpose": "vacation",
+        "trips": 8915329.200000001,
+        "person_hours": 11442380.561481897,
+        "avg_time_min": 77.00700874723883,
+        "avg_dist_km": 109.09326239192167
+      },
+      {
+        "purpose": "tourism",
+        "trips": 10286820.6,
+        "person_hours": 15408226.410859015,
+        "avg_time_min": 89.87165428466216,
+        "avg_dist_km": 112.33956785582772
+      },
+      {
+        "purpose": "emergency",
+        "trips": 352177.64,
+        "person_hours": 380661.64543248335,
+        "avg_time_min": 64.85277919957952,
+        "avg_dist_km": 97.27916879936926
+      }
+    ],
+    "purposes": [
+      "work",
+      "recreation",
+      "family",
+      "vacation",
+      "tourism",
+      "emergency"
+    ]
+  }
+}
